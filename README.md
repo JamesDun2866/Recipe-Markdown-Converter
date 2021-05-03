@@ -1,5 +1,5 @@
 
-# Recipe MArkdown Converter for Chowdown Recipe Manager 
+# Recipe Markdown Converter for Chowdown Recipe Manager 
 
 ### Simple script designed to take a recipe paste/dump and turn it into a markdown recipe format for the chowdown recipe manager. 
 
