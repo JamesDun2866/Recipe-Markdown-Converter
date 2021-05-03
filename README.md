@@ -1,4 +1,7 @@
-Simple script designed to take a recipe paste/dump and turn it into a markdown recipe format for the chowdown recipe manager. 
+
+# Recipe MArkdown Converter for Chowdown Recipe Manager 
+
+### Simple script designed to take a recipe paste/dump and turn it into a markdown recipe format for the chowdown recipe manager. 
 
 To use this, paste a recipe into a notepad and insert the flags so the script knows where to split. These flags are TITLE, EXTRAS, DIRECTIONS And INGREDIENTS.
 
